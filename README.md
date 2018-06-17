@@ -1,2 +1,3 @@
 # hello-world
-My first program in Github
+
+Hello, everyone! My name is Andrew, and this is my first program in Github! 
